@@ -1,0 +1,17 @@
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Infrastructure.deps.json
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Infrastructure.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Infrastructure.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Application.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Domain.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Application.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\bin\Debug\net8.0\DummyWebApp.Domain.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWeb.BC6245D2.Up2Date
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\refint\DummyWebApp.Infrastructure.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\DummyWebApp.Infrastructure.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.DataAccess\obj\Debug\net8.0\ref\DummyWebApp.Infrastructure.dll
